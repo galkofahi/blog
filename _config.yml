@@ -12,7 +12,7 @@ paginate:            5
 author:
   name:              Ghazi Alkofahi
   url:               https://twitter.com/galkofahi
-  email:             galkofahi360@protonmail.com
+  email:             
 
 # Gems
 plugins:
